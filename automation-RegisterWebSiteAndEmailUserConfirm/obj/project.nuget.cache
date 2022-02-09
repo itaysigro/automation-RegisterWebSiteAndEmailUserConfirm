@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sh7UTWovPlribPfim5JYd30LK1mY+9olHpigof+xfGOYf6G35pJgYOGJmwut3e2YaAZzmIqnQIbvCHqk1ekXhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\itays\\source\\repos\\automation-RegisterWebSiteAndEmailUserConfirm\\automation-RegisterWebSiteAndEmailUserConfirm\\automation-RegisterWebSiteAndEmailUserConfirm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\itays\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\itays\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\itays\\.nuget\\packages\\selenium.webdriver.chromedriver\\98.0.4758.8000\\selenium.webdriver.chromedriver.98.0.4758.8000.nupkg.sha512"
+  ],
+  "logs": []
+}
